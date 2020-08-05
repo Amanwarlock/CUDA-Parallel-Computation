@@ -1,0 +1,2 @@
+C:\Users\titan\Downloads\274\Workspace\MatrixTranspose\x64\Debug\MatrixTranspose.exe
+C:\Users\titan\Downloads\274\Workspace\MatrixTranspose\x64\Debug\MatrixTranspose.pdb

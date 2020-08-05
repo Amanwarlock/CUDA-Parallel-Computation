@@ -1,0 +1,2 @@
+C:\Users\titan\Downloads\274\Workspace\HelloWorld\x64\Debug\HelloWorld.exe
+C:\Users\titan\Downloads\274\Workspace\HelloWorld\x64\Debug\HelloWorld.pdb
